@@ -6,7 +6,7 @@ Twoim celem jest zdobycie danych z Rosyjskich serwerów (t.j. z serwerów pozost
 
 Jednocześnie musisz chronić własne zasoby. Jeśli którakolwiek z wrogich służb przechwyci twoje tajne dane, będzie to katastrofą kosztującą __-50 punktów__.
 
-Żeby nie było zbyt łatwo, musicie opublikować swój tajny kod na swoim środowisku:
+Żeby nie było zbyt łatwo, musisz opublikować swój tajny kod na swoim środowisku:
 - utworzyć namespace "secret-code"
 - uruchomić w tym namespace dowolną usługę web (apache, wordpress, itp.), dostępną z całego klastra, wyświetlającą tajny kod
 - Kod musi być wyświetlany czytelną czcionką szeryfową, np. Times New Roman (domyślna w większości przeglądarek), oraz w rozmiarze H1 (minimum 24pts)
